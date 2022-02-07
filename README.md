@@ -13,7 +13,7 @@ Merged data shows the average fare per city for a specific date.
 Overall rides for rural, suburban and urban locations as well for fares; average per ride and driver point to more usage in urban locations, this suggests an area of study in order to improve usage in rural and suburban rides, factors associated (work, university, shopping, leisure or specific reasons account for more usage) as well as fares and driver availability should be taken into account to increase usage.
 
 <img width="626" alt="Overview" src="https://user-images.githubusercontent.com/92539320/152710402-28aacc5a-ba95-4c67-a8b3-442526f9f5c1.png">
-![Fare_summary](https://user-images.githubusercontent.com/92539320/152710420-77525613-5cdb-4068-ac03-87579b601a5c.png)
+https://user-images.githubusercontent.com/92539320/152710420-77525613-5cdb-4068-ac03-87579b601a5c.png
 
 
 Summary: 
